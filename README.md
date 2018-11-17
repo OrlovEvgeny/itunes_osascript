@@ -1,6 +1,7 @@
 # itunes osascript
 
 itunes osascript auto registration
+
 ## not supported
 
 
